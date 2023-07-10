@@ -1,0 +1,77 @@
+.navbar{
+    font-family: serif;
+    font-weight: 700;
+    /* height: 300px; */
+
+}
+.navlist{
+    justify-content: space-evenly;
+}
+.navlist a{
+    color: white;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+}
+.navbar-brand{
+    letter-spacing: 2px;
+}
+.location{
+    color: white;
+    
+}
+.background{
+    text-align: center;
+    font-family: sarif;
+
+}
+.backgroundText{
+    
+    /* text-align: center;
+    font-family: sarif;
+    color: white;
+    position: absolute;
+    top: 25%; */
+    letter-spacing: 4px;
+}
+
+/* @media only screen and (max-width: 600px) {
+    div.backgroundText {
+      top: 10%;
+      font-size: small;
+    }
+  } */
+
+  .about{
+    font-family: sharp;
+    background-color: rgb(122, 118, 118);
+    color: white;
+    padding: 3%;
+  }
+  .about ul li p{
+    margin-bottom: 0%;
+  }
+
+  .callNow{
+    border-radius: 5px;
+     border: 2px solid transparent;
+     background-color: green;
+
+  }
+  .callNow:hover{
+    border: 2px solid green;
+ }
+ .footer a{
+    
+    text-decoration: none;
+    color: rgb(0, 0, 0,0.5);
+    font-weight: 700;
+    
+
+ }
+ .footer{
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+ }
+    
