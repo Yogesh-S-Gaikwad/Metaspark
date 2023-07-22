@@ -61,6 +61,7 @@
  @media (max-width:768px) {
   .footerText{
     font-size: xx-small !important;
+    text-align: center;
   }
   .contact-col{
     width: 100%;
