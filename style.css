@@ -1,7 +1,7 @@
 .navbar{
     font-family: serif;
     font-weight: 700;
-    /* height: 300px; */
+   
 
 }
 .navlist{
@@ -25,22 +25,6 @@
     font-family: sarif;
 
 }
-.backgroundText{
-    
-    /* text-align: center;
-    font-family: sarif;
-    color: white;
-    position: absolute;
-    top: 25%; */
-    letter-spacing: 4px;
-}
-
-/* @media only screen and (max-width: 600px) {
-    div.backgroundText {
-      top: 10%;
-      font-size: small;
-    }
-  } */
 
   .about{
     font-family: sharp;
@@ -84,6 +68,9 @@
   }
   .location{
     padding: 0 !important;
+  }
+  .contact-col P {
+    margin: 0% !important;
   }
   
  }
