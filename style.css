@@ -82,6 +82,9 @@
     width: 100%;
     text-align: center;
   }
+  .location{
+    padding: 0 !important;
+  }
   
  }
 
