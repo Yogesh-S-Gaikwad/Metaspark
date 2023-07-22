@@ -74,4 +74,15 @@
     justify-content: space-between;
     padding:10px;
  }
+ @media (max-width:768px) {
+  .footerText{
+    font-size: xx-small !important;
+  }
+  .contact-col{
+    width: 100%;
+    text-align: center;
+  }
+  
+ }
+
     
